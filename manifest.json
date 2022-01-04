@@ -1,0 +1,9 @@
+{
+  "subapps": [
+    {
+      "title": "Protege",
+      "url": "https://bbp.epfl.ch/nexus/webprotege/",
+      "icon": "https://raw.githubusercontent.com/nicwells/nexus-manifest/main/cloud-filled.svg"
+    }
+  ]
+}
