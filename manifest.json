@@ -1,14 +1,19 @@
 {
   "subapps": [
     {
+      "title": "Kibana",
+      "url": "",
+      "icon": "https://raw.githubusercontent.com/nicwells/nexus-manifest/main/kibana-logo.svg"
+    },
+    {
       "title": "Protege",
       "url": "https://bbp.epfl.ch/nexus/webprotege/",
       "icon": "https://raw.githubusercontent.com/nicwells/nexus-manifest/main/cloud-filled.svg"
     },
     {
-      "title": "Kibana",
+      "title": "Vocab",
       "url": "",
-      "icon": "https://raw.githubusercontent.com/nicwells/nexus-manifest/main/kibana-logo.svg"
+      "icon": "https://raw.githubusercontent.com/nicwells/nexus-manifest/main/rdfIcon.svg"
     }
   ]
 }
